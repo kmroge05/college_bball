@@ -31,7 +31,7 @@ In this project, I used python to analyze some statistical data from Men's Colle
 * SEED: Seed in the NCAA March Madness Tournament
 * YEAR: Season
 
-Of the metrics, I used the Team, Conference, Year, Postseason, Adjusted Offensive/Defensive Efficiency, Effective Field Goal Percentages, and Rebounding Rates. 
+Of the metrics, I used the Team, Conference, Year, Postseason, Adjusted Offensive/Defensive Efficiency, Effective Field Goal Percentages, and Rebounding Rates. The analysis is broken down into just the Champions, then the Top Offenses and Defenses. 
 
 
 ## Featured Requirements
